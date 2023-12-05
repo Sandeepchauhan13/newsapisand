@@ -11,3 +11,25 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+a{
+  color:white;
+ 
+}
+a:hover{
+  color:black;
+  background-color: white;
+  border-radius: 10px;
+}
+.clock{
+  color:white;
+}
+
+.card{
+  transition:1s;
+}
+.card:hover{
+  transform:scale(1.1);
+  z-index:2;
+}

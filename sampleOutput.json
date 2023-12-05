@@ -1,0 +1,98 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Pete Muntean, Holmes Lybrand, Sarah Moon, Dakin Andone",
+      "title": "An off-duty pilot tried to disrupt an Alaska Airlines flight’s engines before being subdued, airline says - CNN",
+      "description": "An off-duty pilot riding as a passenger in the cockpit of an Alaska Airlines flight Sunday tried to “disrupt the operation of the engines,” forcing the flight en route to San Francisco to divert to Portland, Oregon, the airline said in a statement Monday.",
+      "url": "https://www.cnn.com/2023/10/23/us/alaska-airlines-passenger/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231023165726-01-alaska-airlines-embraer-175-111120-file-restricted.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-10-24T02:31:00Z",
+      "content": "An off-duty pilot riding as a passenger in the cockpit of an Alaska Airlines flight Sunday tried to disrupt the operation of the engines, forcing the flight en route to San Francisco to divert to Por… [+4719 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Athletic"
+      },
+      "author": "Andy McCullough",
+      "title": "Diamondbacks dominate Phillies, stave off elimination to force Game 7 in NLCS - The Athletic",
+      "description": "The Diamondbacks ended the Phillies’ October unbeaten streak at home and shattered the club’s veneer of invincibility in South Philadelphia.",
+      "url": "https://theathletic.com/4992095/2023/10/23/phillies-diamondbacks-nlcs-game-6-result/",
+      "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/10/23195256/USATSI_21718690-scaled.jpg",
+      "publishedAt": "2023-10-24T02:26:05Z",
+      "content": "PHILADELPHIA At 8:09 p.m., the crowd went quiet. In truth, they had been muted for much of the evening, shocked by the performance of the Philadelphia Phillies starter, irritated by the fruitless at-… [+6219 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-sports",
+        "name": "Fox Sports"
+      },
+      "author": null,
+      "title": "MLB playoffs live updates: Rangers dominating vs. Astros in ALCS Game 7; D-backs beat Phillies - FOX Sports",
+      "description": "The Diamondbacks upset the Phillies to force a Game 7, while the Rangers and Astros face off with an American League pennant on the line. Follow along here!",
+      "url": "https://www.foxsports.com/stories/mlb/nlcs-game-6-live-updates-phillies-can-clinch-world-series-berth-vs-d-backs",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/10/1408/814/10.23.23_MLB-Live-Updates_Astros_Rangers_16x9.jpg?ve=1&tl=1",
+      "publishedAt": "2023-10-24T01:52:06Z",
+      "content": "The American League will crown its champ with a Game 7 between the Texas Rangers and the Houston Astros. Dusty Baker has never won a Game 7 in his career, while Bruce Bochy is undefeated in such game… [+5022 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "The Associated Press",
+      "title": "Appeals court hears Trump arguments tied to E. Jean Carroll case - NBC News",
+      "description": "A lawyer for Trump argued that a lower-court judge was wrong to reject the immunity defense after it was raised three years after columnist E. Jean Carroll first sued Trump.",
+      "url": "https://www.nbcnews.com/politics/donald-trump/appeals-court-hears-trump-arguments-tied-e-jean-carroll-case-rcna121824",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-10/231023-e-jean-carroll-ac-937p-f6026f.jpg",
+      "publishedAt": "2023-10-24T01:43:00Z",
+      "content": "A federal appeals panel wants to know why lawyers for former President Donald Trump didnt try years ago to use a claim of absolute presidential immunity to shield him from a defamation lawsuit by a w… [+3151 chars]"
+    },
+    {
+      "source": {
+        "id": "entertainment-weekly",
+        "name": "Entertainment Weekly"
+      },
+      "author": "https://www.facebook.com/entertainmentweekly",
+      "title": "Reservation Dogs star Devery Jacobs slams Killers of the Flower Moon - Entertainment Weekly News",
+      "description": "'Reservation Dogs' star Devery Jacobs slams 'Killers of the Flower Moon' for being 'f---king hellfire' that 'dehumanizes our people.'",
+      "url": "https://ew.com/movies/reservation-dogs-star-devery-jacobs-slams-killers-of-the-flower-moon-hellfire-dehumanizes/",
+      "urlToImage": "https://ew.com/thmb/aahqUdrEyo6k4LA_jo5iklmWHL8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Devery-Jacobs-leo-dicaprio-killers-of-the-flower-moon-102323-18b908e1713941b7b94bd0a4a49f9080.jpg",
+      "publishedAt": "2023-10-24T01:22:07Z",
+      "content": "WhileKillers of the Flower Moonis raking in critical acclaim and box office receipts, some members of the indigenous community are expressing their dismay with the film.\r\nOn Monday, Devery Jacobs, wh… [+3216 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Jack Forrest",
+      "title": "These are the House Republicans running for speaker - CNN",
+      "description": "The high-stakes race for House speaker enters a new phase this week, with a slate of new candidates vying for the gavel following Rep. Jim Jordan’s exit from the race.",
+      "url": "https://www.cnn.com/2023/10/22/politics/house-republican-speaker-race-who-is-running/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231023200208-new-speaker-candidates-split-1023-restricted.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-10-24T00:25:00Z",
+      "content": "The high-stakes race for House speaker enters a new phase this week, with a slate of new candidates vying for the gavel following Rep. Jim Jordans exit from the race. \r\nSome of the eight candidates a… [+7351 chars]"
+    }
+   
+  ]
+}
